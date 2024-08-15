@@ -1,22 +1,7 @@
 [
-  {
-    "src": "https://github.com/amanpandeygitwork/carousel/blob/main/public/assets/img1.png",
-    "alt": "image1"
-  },
-  {
-    "src": "https://github.com/amanpandeygitwork/carousel/blob/main/public/assets/img2.jpg",
-    "alt": "image2"
-  },
-  {
-    "src": "https://github.com/amanpandeygitwork/carousel/blob/main/public/assets/img3.jpg",
-    "alt": "image3"
-  },
-  {
-    "src": "https://github.com/amanpandeygitwork/carousel/blob/main/public/assets/img4.jpg",
-    "alt": "image4"
-  },
-  {
-    "src": "https://github.com/amanpandeygitwork/carousel/blob/main/public/assets/img5.jpg",
-    "alt": "image5"
-  }
+  { "src": "/assets/img1.png", "alt": "image1" },
+  { "src": "/assets/img2.jpg", "alt": "image2" },
+  { "src": "/assets/img3.jpg", "alt": "image3" },
+  { "src": "/assets/img4.jpg", "alt": "image4" },
+  { "src": "/assets/img5.jpg", "alt": "image5" }
 ]
