@@ -66,7 +66,10 @@ function Carousel() {
       </div>
       <div className={`carousel-inner ${active === 1 ? "" : "hidden"}`}>
         <video controls>
-          <source src="/assets/vid.mp4" type="video/mp4" />
+          <source
+            src="https://github.com/amanpandeygitwork/carousel/blob/main/public/assets/vid.mp4"
+            type="video/mp4"
+          />
         </video>
       </div>
       <ChevronLeftIcon className="icon left-icon" onClick={prevSlide} />
